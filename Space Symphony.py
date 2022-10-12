@@ -1,8 +1,3 @@
-#########################
-# Ruan Henrique Cardoso #
-#   Matrícula: 535786   #
-#########################
-
 import time
 import turtle
 import pygame
